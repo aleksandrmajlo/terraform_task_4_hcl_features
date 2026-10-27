@@ -1,0 +1,6 @@
+prefix              = "mate-tf4"
+location            = "North Europe"
+vm_count            = 2
+vm_size             = "Standard_B1s"
+admin_username      = "azureadmin"
+ssh_public_key_path = "~/.ssh/id_ed25519.pub"
